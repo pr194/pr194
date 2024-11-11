@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prince Yadav</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently learning **Courses**
+- 🌱 I’m currently learning **Dev-Ops**
 
 - 💬 Ask me about **react, typescript ,go**
 
